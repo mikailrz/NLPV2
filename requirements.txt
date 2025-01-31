@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+wordcloud
+scikit-learn
+transformers
+torch
+nltk
+aiohttp
+beautifulsoup4
+lxml
